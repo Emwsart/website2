@@ -1,1 +1,1 @@
-document.write('<script src="//use.typekit.net/onz5gap.js"><\/script>');
+document.write('<script src="https://use.typekit.net/onz5gap.js"><\/script>');
